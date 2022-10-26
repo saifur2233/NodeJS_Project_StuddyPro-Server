@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Web Design"
+    },
+    {
+      "id": "02",
+      "name": "Web Development"
+    },
+    {
+      "id": "03",
+      "name": "OOP Course"
+    },
+    {
+      "id": "04",
+      "name": "Data Structure"
+    },
+    {
+      "id": "05",
+      "name": "Data Science"
+    },
+    {
+      "id": "06",
+      "name": "WordPress"
+    },
+    {
+      "id": "07",
+      "name": "Database Course"
+    },
+    {
+      "id": "08",
+      "name": "All Course"
+    }
+  ]

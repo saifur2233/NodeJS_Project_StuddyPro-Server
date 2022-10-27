@@ -6,6 +6,7 @@ const courseCategory = require('./data/course-category.json');
 const coursesDetails = require('./data/course-details.json');
 
 app.use(cors());
+
 const port = 5000;
 
 app.get('/',(req, res)=>{

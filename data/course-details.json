@@ -2,6 +2,7 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "category_id": "01",
+      "price":"100",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "How to become a good designer",
@@ -10,13 +11,14 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course1.jpg",
-      "image_url": "https://i.ibb.co/N7G6DLf/course1.jpg",
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
       "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "category_id": "01",
+      "price":"100",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Let's learn about Web Design",
@@ -25,13 +27,14 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course2.jpg",
-      "image_url": "https://i.ibb.co/N7G6DLf/course2.jpg",
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
       "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     },
     {
       "_id": "0282e0e58a5c405tbd15261f13c2ab6b",
       "category_id": "01",
+      "price":"100",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Learn advance Web Design",
@@ -40,13 +43,14 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course3.jpg",
-      "image_url": "https://i.ibb.co/N7G6DLf/course3.jpg",
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
       "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     },
     {
       "_id": "0384e0e58a5c405tbd15261f13c2ab6b",
       "category_id": "01",
+      "price":"100",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Basic Web Design course",
@@ -55,13 +59,14 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course4.jpg",
-      "image_url": "https://i.ibb.co/N7G6DLf/course4.jpg",
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
       "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     },
     {
       "_id": "0282e0e58a5c405ubd15261f13c2ab6b",
       "category_id": "05",
+      "price":"100",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Advanced MongoDB Course",
@@ -70,13 +75,14 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course5.jpg",
-      "image_url": "https://i.ibb.co/N7G6DLf/course5.jpg",
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
       "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     },
     {
       "_id": "0282e0e58a5c468fbd15261f13c2ab6b",
       "category_id": "01",
+      "price":"100",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Bootstrap 5.2 Course",
@@ -92,6 +98,7 @@
     {
       "_id": "0282e0e58a5c468fbd15267f16c2ab6b",
       "category_id": "01",
+      "price":"100",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Tailwind CSS Course",
@@ -100,13 +107,14 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course5.jpg",
-      "image_url": "https://i.ibb.co/L1sMBJV/course5.jpg",
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
       "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     },
     {
       "_id": "0782e0e58a5c468fbd15261f13c2ab6b",
       "category_id": "01",
+      "price":"100",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Daisy UI CSS Course",
@@ -115,8 +123,8 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course4.jpg",
-      "image_url": "https://i.ibb.co/L1sMBJV/course4.jpg",
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
       "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     }
 ]

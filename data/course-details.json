@@ -1,40 +1,122 @@
 [
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "title": "How to become a good designer",
       "author": {
         "name": "Jimmy Dane",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course1.jpg",
+      "image_url": "https://i.ibb.co/N7G6DLf/course1.jpg",
+      "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
-      "category_id": "03",
+      "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "title": "Let's learn about Web Design",
       "author": {
         "name": "Jimmy Dane",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course2.jpg",
+      "image_url": "https://i.ibb.co/N7G6DLf/course2.jpg",
+      "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
+    },
+    {
+      "_id": "0282e0e58a5c405tbd15261f13c2ab6b",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Learn advance Web Design",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course3.jpg",
+      "image_url": "https://i.ibb.co/N7G6DLf/course3.jpg",
+      "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
+    },
+    {
+      "_id": "0384e0e58a5c405tbd15261f13c2ab6b",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Basic Web Design course",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course4.jpg",
+      "image_url": "https://i.ibb.co/N7G6DLf/course4.jpg",
+      "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
+    },
+    {
+      "_id": "0282e0e58a5c405ubd15261f13c2ab6b",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Advanced MongoDB Course",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/N7G6DLf/course5.jpg",
+      "image_url": "https://i.ibb.co/N7G6DLf/course5.jpg",
+      "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
+    },
+    {
+      "_id": "0282e0e58a5c468fbd15261f13c2ab6b",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Bootstrap 5.2 Course",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course6.jpg",
+      "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
+    },
+    {
+      "_id": "0282e0e58a5c468fbd15267f16c2ab6b",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Tailwind CSS Course",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course5.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course5.jpg",
+      "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
+    },
+    {
+      "_id": "0782e0e58a5c468fbd15261f13c2ab6b",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Daisy UI CSS Course",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L1sMBJV/course4.jpg",
+      "image_url": "https://i.ibb.co/L1sMBJV/course4.jpg",
+      "details": "Wednesday, August 24, 2022 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed tincidunt velit. Donec bibendum turpis vitae maximus."
     }
 ]
